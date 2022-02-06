@@ -1,32 +1,47 @@
 [
 	{
-		"name": "Name Surname",
-		"role": "Role in team",
-		"avatar": "img url"
+		"brand": "Brand 1",
+		"devices": {
+			"codename 1": {
+				"name": "Device Name",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			},
+			"codename 2": {
+				"name": "Device Name",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			},
+			"codename 3": {
+				"name": "Device Name",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			}
+		}
 	},
 	{
-		"name": "Name Surname",
-		"role": "Role in team",
-		"avatar": "img url"
-	},
-	{
-		"name": "Name Surname",
-		"role": "Role in team",
-		"avatar": "img url"
-	},
-	{
-		"name": "Name Surname",
-		"role": "Role in team",
-		"avatar": "img url"
-	},
-	{
-		"name": "Name Surname",
-		"role": "Role in team",
-		"avatar": "img url"
-	},
-	{
-		"name": "Name Surname",
-		"role": "Role in team",
-		"avatar": "img url"
+		"brand": "Brand 2",
+		"devices": {
+			"codename 1": {
+				"name": "Device Name",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			},
+			"codename 2": {
+				"name": "Device Name",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			}
+		}
 	}
 ]
