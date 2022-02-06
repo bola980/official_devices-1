@@ -46,6 +46,14 @@
 				"xda": "https://forum.xda-developers.com/m/aaradhayvijay.11824373/",
 				"telegram": "https://t.me/inferno964",
 				"download": "null"
+			},
+                       "2": {
+				"name": "Redmi Note 10",
+				"codename": "mojito",
+				"maintainer": "Jaydeep Kumar",
+				"xda": "https://forum.xda-developers.com/m/jaydeep_kumar.11713779/",
+				"telegram": "https://t.me/DEVJAYDEEP",
+				"download": "null"
 			}
 		}
 	},
