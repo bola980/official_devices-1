@@ -69,20 +69,28 @@
 		"brand": "Poco",
 		"devices": {
 			"0": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
+				"name": "Poco F3",
+				"codename": "alioth",
+				"maintainer": "Eidoron1",
+				"xda": "https://forum.xda-developers.com/m/eidoron1.11939237/",
+				"telegram": "https://t.me/Eidoron1",
+				"download": "null"
 			},
 			"1": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
+				"name": "Mi 11x",
+				"codename": "aliothin",
+				"maintainer": "Eidoron1",
+				"xda": "https://forum.xda-developers.com/m/eidoron1.11939237/",
+				"telegram": "https://t.me/Eidoron1",
+				"download": "null"
+			},
+			"2": {
+				"name": "Redmi K40",
+				"codename": "alioth",
+				"maintainer": "Eidoron1",
+				"xda": "https://forum.xda-developers.com/m/eidoron1.11939237/",
+				"telegram": "https://t.me/Eidoron1",
+				"download": "null"
 			}
 		}
 	}
