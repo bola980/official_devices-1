@@ -2,22 +2,25 @@
 	{
 		"brand": "Brand 1",
 		"devices": {
-			"codename 1": {
+			"0": {
 				"name": "Device Name",
+				"codename": "codename",
 				"maintainer": "Maintainer Name",
 				"xda": "xda support link",
 				"telegram": "telegram support link",
 				"download": "download url"
 			},
-			"codename 2": {
+			"1": {
 				"name": "Device Name",
+				"codename": "codename",
 				"maintainer": "Maintainer Name",
 				"xda": "xda support link",
 				"telegram": "telegram support link",
 				"download": "download url"
 			},
-			"codename 3": {
+			"2": {
 				"name": "Device Name",
+				"codename": "codename",
 				"maintainer": "Maintainer Name",
 				"xda": "xda support link",
 				"telegram": "telegram support link",
@@ -28,15 +31,17 @@
 	{
 		"brand": "Brand 2",
 		"devices": {
-			"codename 1": {
+			"0": {
 				"name": "Device Name",
+				"codename": "codename",
 				"maintainer": "Maintainer Name",
 				"xda": "xda support link",
 				"telegram": "telegram support link",
 				"download": "download url"
 			},
-			"codename 2": {
+			"1": {
 				"name": "Device Name",
+				"codename": "codename",
 				"maintainer": "Maintainer Name",
 				"xda": "xda support link",
 				"telegram": "telegram support link",
