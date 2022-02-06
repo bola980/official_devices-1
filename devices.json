@@ -48,6 +48,14 @@
 				"download": "null"
 			},
                        "2": {
+				"name": "Redmi Note 9S / 9 Pro / 9 Pro Max / POCO M2 Pro",
+				"codename": "miatoll",
+				"maintainer": "Sushrut1101",
+				"xda": "https://forum.xda-developers.com/m/Sushrut1101.10817501/",
+				"telegram": "https://t.me/Sushrut1101",
+				"download": "null"
+			},
+                       "3": {
 				"name": "Redmi Note 10",
 				"codename": "mojito",
 				"maintainer": "Jaydeep Kumar",
