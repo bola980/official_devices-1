@@ -38,4 +38,11 @@
                 "github": "https://github.com/ItsProf",
                 "avatar": "https://github.com/ItsProf.png"
         },
+	
+	{
+                "name": "TechnoStart",
+                "telegram": "https://t.me/MrTechnoStart",
+                "github": "https://github.com/TechnoStartOfficial",
+                "avatar": "https://github.com/TechnoStartOfficial.png"
+        },
 ]
