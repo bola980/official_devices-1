@@ -24,6 +24,7 @@
                 "github": "https://github.com/kssrao13882",
                 "avatar": "https://github.com/kssrao13882.png"
         },
+
 	{
                 "name": "vesh",
                 "telegram": "https://t.me/veshrao",
@@ -35,5 +36,12 @@
                 "telegram": "https://t.me/krxyzn",
                 "github": "https://github.com/Krxyzn",
                 "avatar": "https://github.com/Krxyzn.png"
+        },
+
+        {
+                "name": "ItsProf",
+                "telegram": "https://t.me/ItsProf",
+                "github": "https://github.com/ItsProf",
+                "avatar": "https://github.com/ItsProf.png"
         },
 ]
