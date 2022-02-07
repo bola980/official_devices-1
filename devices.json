@@ -19,12 +19,20 @@
 				"download": "null"
 			},
 			"2": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
+				"name": "Realme 6 / 6S / 6i (India) / Narzo",
+				"codename": "RM6785",
+				"maintainer": "Zaidan",
+				"xda": "https://forum.xda-developers.com/m/imflynnn.12010775/",
+				"telegram": "https://t.me/ImFlynnn",
+				"download": "null"
+			},
+			"3": {
+				"name": "Realme 7 / Narzo 20 Pro / Narzo 30 4G",
+				"codename": "RM6785",
+				"maintainer": "Zaidan",
+				"xda": "https://forum.xda-developers.com/m/imflynnn.12010775/",
+				"telegram": "https://t.me/ImFlynnn",
+				"download": "null"
 			}
 		}
 	},
