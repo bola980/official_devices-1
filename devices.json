@@ -70,7 +70,15 @@
 				"xda": "xda support link",
 				"telegram": "https://t.me/Krxyzn",
 				"download": "null"
-			}
+			},
+                       "5": { 
+                                "name": "Redmi Note 9",
+				"codename": "merlinx",
+				"maintainer": "Sultan Tammam",
+				"xda": "https://forum.xda-developers.com/m/itsprof1.12009991/",
+				"telegram": "https://t.me/ItsProf",
+				"download": "null"
+                        }
 		}
 	},
 	{
