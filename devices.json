@@ -102,6 +102,22 @@
 				"xda": "https://forum.xda-developers.com/m/atharv2951",
 				"telegram": "https://t.me/atharv2951",
 				"download": "null"
+			}, 
+                       "7": { 
+                                "name": "Redmi 4A",
+				"codename": "rolex",
+				"maintainer": "vesh",
+				"xda": "https://forum.xda-developers.com/m/veshrao.11872945/",
+				"telegram": "https://t.me/veshrao",
+				"download": "null"
+			}, 
+                       "8": { 
+                                "name": "Redmi 5A",
+				"codename": "riva",
+				"maintainer": "vesh",
+				"xda": "https://forum.xda-developers.com/m/veshrao.11872945/",
+				"telegram": "https://t.me/veshrao",
+				"download": "null"
                         }
 		}
 	},
