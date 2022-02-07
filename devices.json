@@ -118,6 +118,14 @@
 				"xda": "https://forum.xda-developers.com/m/veshrao.11872945/",
 				"telegram": "https://t.me/veshrao",
 				"download": "null"
+                        },
+			"9": { 
+                                "name": "Redmi 8A Dual",
+				"codename": "olivewood",
+				"maintainer": "Ashish Jaswal",
+				"xda": "https://forum.xda-developers.com/m/ashish11948.11817917/",
+				"telegram": "https://t.me/jaswal_ashish",
+				"download": "null"
                         }
 		}
 	},
