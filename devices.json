@@ -78,6 +78,14 @@
 				"xda": "https://forum.xda-developers.com/m/itsprof1.12009991/",
 				"telegram": "https://t.me/ItsProf",
 				"download": "null"
+                        }, 
+                       "6": { 
+                                "name": "Redmi 10 / 10 Prime",
+				"codename": "selene",
+				"maintainer": "atharv2951",
+				"xda": "https://forum.xda-developers.com/m/atharv2951",
+				"telegram": "https://t.me/atharv2951",
+				"download": "null"
                         }
 		}
 	},
