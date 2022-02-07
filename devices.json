@@ -48,7 +48,7 @@
 				"download": "null"
 			},
                        "2": {
-				"name": "Redmi Note 9S / 9 Pro / 9 Pro Max / POCO M2 Pro",
+				"name": "Redmi Note 9S / 9 Pro India",
 				"codename": "miatoll",
 				"maintainer": "Sushrut1101",
 				"xda": "https://forum.xda-developers.com/m/Sushrut1101.10817501/",
@@ -56,6 +56,22 @@
 				"download": "null"
 			},
                        "3": {
+				"name": "Redmi Note 9 Pro Global",
+				"codename": "miatoll",
+				"maintainer": "Sushrut1101",
+				"xda": "https://forum.xda-developers.com/m/Sushrut1101.10817501/",
+				"telegram": "https://t.me/Sushrut1101",
+				"download": "null"
+			},
+                       "4": {
+				"name": "Redmi Note 9 Pro Max",
+				"codename": "miatoll",
+				"maintainer": "Sushrut1101",
+				"xda": "https://forum.xda-developers.com/m/Sushrut1101.10817501/",
+				"telegram": "https://t.me/Sushrut1101",
+				"download": "null"
+			},
+                       "5": {
 				"name": "Redmi Note 10",
 				"codename": "mojito",
 				"maintainer": "Jaydeep Kumar",
@@ -63,7 +79,7 @@
 				"telegram": "https://t.me/DEVJAYDEEP",
 				"download": "null"
                         },
-                       "4": {
+                       "6": {
                                 "name": "Redmi 4X",
 				"codename": "Santoni",
 				"maintainer": "Rafa Ibrahim",
@@ -71,7 +87,7 @@
 				"telegram": "https://t.me/Krxyzn",
 				"download": "null"
 			},
-                       "5": { 
+                       "7": { 
                                 "name": "Redmi Note 9",
 				"codename": "merlinx",
 				"maintainer": "Sultan Tammam",
@@ -79,7 +95,7 @@
 				"telegram": "https://t.me/ItsProf",
 				"download": "null"
                         }, 
-                       "6": { 
+                       "8": { 
                                 "name": "Redmi 10 / 10 Prime",
 				"codename": "selene",
 				"maintainer": "atharv2951",
@@ -100,7 +116,15 @@
 				"telegram": "https://t.me/Eidoron1",
 				"download": "null"
 			},
-			"1": {
+                       "1": {
+				"name": "POCO M2 Pro",
+				"codename": "miatoll",
+				"maintainer": "Sushrut1101",
+				"xda": "https://forum.xda-developers.com/m/Sushrut1101.10817501/",
+				"telegram": "https://t.me/Sushrut1101",
+				"download": "null"
+			},
+			"2": {
 				"name": "Mi 11x",
 				"codename": "aliothin",
 				"maintainer": "Eidoron1",
@@ -108,7 +132,7 @@
 				"telegram": "https://t.me/Eidoron1",
 				"download": "null"
 			},
-			"2": {
+			"3": {
 				"name": "Redmi K40",
 				"codename": "alioth",
 				"maintainer": "Eidoron1",
