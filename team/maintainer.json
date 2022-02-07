@@ -1,11 +1,16 @@
 [
+        {
+		"name": "Aaradhay Vijay",
+		"telegram": "https://t.me/inferno964",
+                "github": "https://github.com/inferno964",
+		"avatar": "https://github.com/inferno964.png"
+	},
 	{
 		"name": "Ashish",
 		"telegram": "https://t.me/jaswal_ashish",
                 "github": "https://github.com/JaswalAshish",
 		"avatar": "https://github.com/JaswalAshish.png"
 	},
-	
 	{
 		"name": "Eidoron1",
 		"telegram": "https://t.me/Eidoron1",
@@ -25,7 +30,6 @@
                 "github": "https://github.com/veshrao",
                 "avatar": "https://github.com/veshrao.png"
         },
-
         {
                 "name": "Rafa Ibrahim",
                 "telegram": "https://t.me/krxyzn",
