@@ -1,52 +1,45 @@
 [
 	{
-		"brand": "Brand 1",
-		"devices": {
-			"0": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
-			},
-			"1": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
-			},
-			"2": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
-			}
-		}
+		"name": "Ashish",
+		"telegram": "https://t.me/jaswal_ashish",
+		"github": "https://github.com/JaswalAshish",
+		"avatar": "https://github.com/JaswalAshish.png"
 	},
 	{
-		"brand": "Brand 2",
-		"devices": {
-			"0": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
-			},
-			"1": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
-			}
-		}
+		"name": "Eidoron1",
+		"telegram": "https://t.me/Eidoron1",
+		"github": "https://github.com/Eidoron1",
+		"avatar": "https://github.com/Eidoron1.png"
+
+	},
+	{
+		"name": "KSSRAO",
+		"telegram": "https://t.me/kssrao13882",
+		"github": "https://github.com/kssrao13882",
+		"avatar": "https://github.com/kssrao13882.png"
+	},
+	{
+		"name": "vesh",
+		"telegram": "https://t.me/veshrao",
+		"github": "https://github.com/veshrao",
+		"avatar": "https://github.com/veshrao.png"
+	},
+	{
+		"name": "Rafa",
+		"telegram": "https://t.me/krxyzn",
+		"github": "https://github.com/Krxyzn",
+		"avatar": "https://github.com/Krxyzn.png"
+	},
+	{
+		"name": "ItsProf",
+		"telegram": "https://t.me/ItsProf",
+		"github": "https://github.com/ItsProf",
+		"avatar": "https://github.com/ItsProf.png"
+	},
+	{
+		"name": "TechnoStart",
+		"telegram": "https://t.me/MrTechnoStart",
+		"github": "https://github.com/TechnoStartOfficial",
+		"avatar": "https://github.com/TechnoStartOfficial.png"
 	}
 ]
