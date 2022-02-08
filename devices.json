@@ -147,6 +147,14 @@
 				"xda": "https://forum.xda-developers.com/m/Sushrut1101.10817501/",
 				"telegram": "https://t.me/Sushrut1101",
 				"download": "null"
+			},
+                       "2": {
+				"name": "POCO X3/NFC",
+				"codename": "surya",
+				"maintainer": "lostark13",
+				"xda": "https://forum.xda-developers.com/m/lostark13.10520189/",
+				"telegram": "https://t.me/lostark13",
+				"download": "null"
 			}
 		}
 	}
