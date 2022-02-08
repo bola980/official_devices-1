@@ -65,7 +65,7 @@
                         },
                        "4": {
                                 "name": "Redmi 4/4X",
-				"codename": "Santoni",
+				"codename": "santoni",
 				"maintainer": "Rafa Ibrahim",
 				"xda": "https://forum.xda-developers.com/m/krxyzn.12010189/",
 				"telegram": "https://t.me/Krxyzn",
@@ -78,16 +78,8 @@
 				"xda": "https://forum.xda-developers.com/m/itsprof1.12009991/",
 				"telegram": "https://t.me/ItsProf",
 				"download": "null"
-                        }, 
-                       "6": { 
-                                "name": "Redmi 10 / 10 Prime",
-				"codename": "selene",
-				"maintainer": "atharv2951",
-				"xda": "https://forum.xda-developers.com/m/atharv2951",
-				"telegram": "https://t.me/atharv2951",
-				"download": "null"
 			}, 
-                       "7": { 
+                       "6": { 
                                 "name": "Redmi 4A",
 				"codename": "rolex",
 				"maintainer": "vesh",
@@ -95,7 +87,7 @@
 				"telegram": "https://t.me/veshrao",
 				"download": "null"
 			}, 
-                       "8": { 
+                       "7": { 
                                 "name": "Redmi 5A",
 				"codename": "riva",
 				"maintainer": "vesh",
@@ -103,7 +95,7 @@
 				"telegram": "https://t.me/veshrao",
 				"download": "null"
                         },
-			"9": { 
+			"8": { 
                                 "name": "Redmi 8A Dual",
 				"codename": "olivewood",
 				"maintainer": "Ashish Jaswal",
@@ -111,7 +103,7 @@
 				"telegram": "https://t.me/jaswal_ashish",
 				"download": "null"
                         },
-			"10": {
+			"9": {
 				"name": "Mi 11x",
 				"codename": "aliothin",
 				"maintainer": "Eidoron1",
@@ -119,7 +111,7 @@
 				"telegram": "https://t.me/Eidoron1",
 				"download": "null"
 			},
-			"11": {
+			"10": {
 				"name": "Redmi K40",
 				"codename": "alioth",
 				"maintainer": "Eidoron1",
