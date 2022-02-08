@@ -3,14 +3,6 @@
 		"brand": "Realme",
 		"devices": {
 			"0": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
-			},
-			"1": {
 				"name": "Realme 5 Pro",
 				"codename": "RMX1971",
 				"maintainer": "KSSRAO",
@@ -18,7 +10,7 @@
 				"telegram": "https://t.me/kssrao13882",
 				"download": "null"
 			},
-			"2": {
+			"1": {
 				"name": "Realme 6 / 6S / 6i (India) / Narzo",
 				"codename": "RM6785",
 				"maintainer": "Zaidan",
@@ -26,7 +18,7 @@
 				"telegram": "https://t.me/ImFlynnn",
 				"download": "null"
 			},
-			"3": {
+			"2": {
 				"name": "Realme 7 / Narzo 20 Pro / Narzo 30 4G",
 				"codename": "RM6785",
 				"maintainer": "Zaidan",
