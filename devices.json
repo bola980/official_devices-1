@@ -64,6 +64,14 @@
 				"download": "null"
                         },
                        "4": {
+                                "name": "Redmi Note 10 Pro/Max",
+                                "codename": "sweet/sweetin", 
+                                "maintainer": "BolaRmay",
+                                "xda": "https://forum.xda-developers.com/m/bolaramy.11630945/",
+                                "telegram": "https://t.me/Bolaalex",
+                                "download": "null"
+                        },
+                       "5": {
                                 "name": "Redmi 4/4X",
 				"codename": "santoni",
 				"maintainer": "Rafa Ibrahim",
@@ -71,7 +79,7 @@
 				"telegram": "https://t.me/Krxyzn",
 				"download": "null"
 			},
-                       "5": { 
+                       "6": { 
                                 "name": "Redmi Note 9 / Redmi 10X 4G",
 				"codename": "merlinx",
 				"maintainer": "Sultan Tammam",
@@ -79,7 +87,7 @@
 				"telegram": "https://t.me/ItsProf",
 				"download": "null"
 			}, 
-                       "6": { 
+                       "7": { 
                                 "name": "Redmi 4A",
 				"codename": "rolex",
 				"maintainer": "vesh",
@@ -87,7 +95,7 @@
 				"telegram": "https://t.me/veshrao",
 				"download": "null"
 			}, 
-                       "7": { 
+                       "8": { 
                                 "name": "Redmi 5A",
 				"codename": "riva",
 				"maintainer": "vesh",
@@ -95,7 +103,7 @@
 				"telegram": "https://t.me/veshrao",
 				"download": "null"
                         },
-			"8": { 
+			"9": { 
                                 "name": "Redmi 8A Dual",
 				"codename": "olivewood",
 				"maintainer": "Ashish Jaswal",
@@ -103,7 +111,7 @@
 				"telegram": "https://t.me/jaswal_ashish",
 				"download": "null"
                         },
-			"9": {
+			"10": {
 				"name": "Mi 11x",
 				"codename": "aliothin",
 				"maintainer": "Eidoron1",
@@ -111,7 +119,7 @@
 				"telegram": "https://t.me/Eidoron1",
 				"download": "null"
 			},
-			"10": {
+			"11": {
 				"name": "Redmi K40",
 				"codename": "alioth",
 				"maintainer": "Eidoron1",
